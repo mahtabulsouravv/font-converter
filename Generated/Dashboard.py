@@ -11,7 +11,6 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 import Generated.All_rc as All_rc
 
-
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
@@ -413,7 +412,8 @@ class Ui_MainWindow(object):
         self.woff_check.setText(_translate("MainWindow", "WOFF"))
         self.woff2_check.setText(_translate("MainWindow", "WOFF2"))
         self.label_3.setText(_translate("MainWindow", "Developed By Mahtabul Shourav "))
-        self.choose_button.setText(_translate("MainWindow", "Choose Font"))
+        self.choose_button.setText(_translate("MainWindow", " Select Fonts"))
         self.output_button.setText(_translate("MainWindow", " Select Output Directory"))
         self.start_button.setText(_translate("MainWindow", "Start Converting"))
         self.cancel_button.setText(_translate("MainWindow", " Cancel "))
+

@@ -413,7 +413,7 @@ QPushButton:pressed {
 </string>
           </property>
           <property name="text">
-           <string>Choose Font</string>
+           <string> Select Fonts</string>
           </property>
           <property name="icon">
            <iconset resource="../Resources/All.qrc">

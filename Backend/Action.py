@@ -132,7 +132,7 @@ class FontConverterApp(QMainWindow, Ui_MainWindow):
             
         output_dir = self.output_dir if self.output_dir else os.path.join(
             os.path.dirname(self.input_files[0]), 
-            "converted_fonts"
+            "Converted_Fonts"
         )
         
         if not os.path.exists(output_dir):
