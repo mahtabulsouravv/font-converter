@@ -20,7 +20,7 @@ A powerful **font conversion tool** built with **PyQt5** that supports multiple 
 ## 🚀 Getting Started  
 1️⃣ Clone the repository:  
 ```bash  
-git clone https://github.com/yourusername/font-converter.git  
+git clone https://github.com/mahtabulsouravv/font-converter.git
 ```  
 
 2️⃣ Navigate to project directory:  
