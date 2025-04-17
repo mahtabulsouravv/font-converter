@@ -15,7 +15,7 @@ A powerful **font conversion tool** built with **PyQt5** that supports multiple 
 ◽ **Brotli**: Compression for WOFF2 support  
 
 ## 📸 App Preview  
-![Font Converter Screenshot](https://i.imgur.com/JK7w3Ey.png)  
+![Font Converter Screenshot](https://github.com/mahtabulsouravv/font-converter/blob/main/Resources/Preview.PNG)  
 
 ## 🚀 Getting Started  
 1️⃣ Clone the repository:  
